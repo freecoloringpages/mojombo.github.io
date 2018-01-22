@@ -13,6 +13,6 @@ Tranh Tô Màu Công Chúa Elsa trước: [Phần 1](http://tranhtomau.net/2018/
 
 ![Tranh Tô Màu Công Chúa Elsa 29](http://tranhtomau.net/img1/Tranh-To-Mau-Cong-Chua-Elsa%20(29).jpg "Tranh Tô Màu Công Chúa Elsa 29")
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- tranhtomau_ads -->    <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="9179023662"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- tranhtomau_ads --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="9179023662"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 Tranh Tô Màu Công Chúa Elsa tiếp theo: [Phần 30](http://tranhtomau.net/2018/01/22/Tranh-To-Mau-Cong-Chua-Elsa-phan-30.html) - 
