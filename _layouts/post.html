@@ -4,12 +4,12 @@ layout: default
 <div id="post">
 {{ content }}
 </div>
-<div id="tags">
+
 {% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
 {% endif %}
-</div>
+
 
 <div id="related">
   <h2>Newest Posts on TranhToMau.net</h2>
