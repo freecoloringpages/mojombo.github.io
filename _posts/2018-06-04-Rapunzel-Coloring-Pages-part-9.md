@@ -6,8 +6,6 @@ categoties: [Rapunzel Coloring Pages, Rapunzel]
 ---
 {{ page.title }}
 ================
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
-
 > Welcome to the collection of [Rapunzel Coloring Pages](http://tranhtomau.net/) on the [tranhtomau.net](http://tranhtomau.net/). Rapunzel is a fictional character who appears in Walt Disney Animation Studios' 50th animated feature film Tangled, its sequel Tangled Ever After, and its television spin-off Tangled: The Series. Voiced by American actress and singer Mandy Moore, Rapunzel is a young princess kept unaware of her royal heritage by a vain old woman named Mother Gothel, who raises her in a secluded tower in order to exploit her hair's healing abilities to remain young and beautiful forever. [Source: https://wikipedia.org/](https://wikipedia.org/)
 
 **In the series of Rapunzel Coloring Pages:**
