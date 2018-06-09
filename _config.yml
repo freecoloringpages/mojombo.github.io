@@ -1,2 +1,3 @@
 plugins:
   - jekyll-sitemap
+paginate: 10
