@@ -25,21 +25,21 @@ categoties: [Easter Chicks Coloring Page, Easter Coloring Pages]
 * [Easter Chicks Coloring Page - Part 13](http://tranhtomau.net/2018/08/16/Easter-Chicks-Coloring-Page-part-13.html)
 
 ## Easter Chicks Coloring Page No. 6
-![Easter Chicks Coloring Page 6](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(6).jpg "Easter Chicks Coloring Page 6")
+![Easter Chicks Coloring Page 6](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(6).jpg "Easter Chicks Coloring Page 6")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
 ## Easter Chicks Coloring Page No. 7
-![Easter Chicks Coloring Page 7](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(7).jpg "Easter Chicks Coloring Page 7")
+![Easter Chicks Coloring Page 7](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(7).jpg "Easter Chicks Coloring Page 7")
 
 ## Easter Chicks Coloring Page No. 8
-![Easter Chicks Coloring Page 8](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(8).jpg "Easter Chicks Coloring Page 8")
+![Easter Chicks Coloring Page 8](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(8).jpg "Easter Chicks Coloring Page 8")
 
 ## Easter Chicks Coloring Page No. 9
-![Easter Chicks Coloring Page 9](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(9).jpg "Easter Chicks Coloring Page 9")
+![Easter Chicks Coloring Page 9](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(9).jpg "Easter Chicks Coloring Page 9")
 
 ## Easter Chicks Coloring Page No. 10
-![Easter Chicks Coloring Page 10](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(10).jpg "Easter Chicks Coloring Page 10")
+![Easter Chicks Coloring Page 10](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(10).jpg "Easter Chicks Coloring Page 10")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 

@@ -25,21 +25,21 @@ categoties: [Easter Chicks Coloring Page, Easter Coloring Pages]
 * [Easter Chicks Coloring Page - Part 13](http://tranhtomau.net/2018/08/16/Easter-Chicks-Coloring-Page-part-13.html)
 
 ## Easter Chicks Coloring Page No. 31
-![Easter Chicks Coloring Page 31](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(31).jpg "Easter Chicks Coloring Page 31")
+![Easter Chicks Coloring Page 31](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(31).jpg "Easter Chicks Coloring Page 31")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
 ## Easter Chicks Coloring Page No. 32
-![Easter Chicks Coloring Page 32](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(32).jpg "Easter Chicks Coloring Page 32")
+![Easter Chicks Coloring Page 32](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(32).jpg "Easter Chicks Coloring Page 32")
 
 ## Easter Chicks Coloring Page No. 33
-![Easter Chicks Coloring Page 33](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(33).jpg "Easter Chicks Coloring Page 33")
+![Easter Chicks Coloring Page 33](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(33).jpg "Easter Chicks Coloring Page 33")
 
 ## Easter Chicks Coloring Page No. 34
-![Easter Chicks Coloring Page 34](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(34).jpg "Easter Chicks Coloring Page 34")
+![Easter Chicks Coloring Page 34](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(34).jpg "Easter Chicks Coloring Page 34")
 
 ## Easter Chicks Coloring Page No. 35
-![Easter Chicks Coloring Page 35](http://tranhtomau.net/img1/Easter-Chicks-Coloring-Page%20(35).jpg "Easter Chicks Coloring Page 35")
+![Easter Chicks Coloring Page 35](http://tranhtomau.net/img2/Easter-Chicks-Coloring-Page%20(35).jpg "Easter Chicks Coloring Page 35")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
