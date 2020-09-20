@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Tệp xác minh quyền sở hữu miền cho các Microsoft 365 – nằm ở gốc của trang web",
+  "Domain": "tranhtomau.net",
+  "Id": "526b3ae8-cc99-486f-8405-d6748641b3ae"
+}
