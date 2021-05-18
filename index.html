@@ -11,6 +11,13 @@ title: Thế giới tranh tô màu cho bé - Free Coloring Pages For Kids
     {% endfor %}
   </ul>
   
+  <h1>Halloween Coloring Pages</h1>
+  <ul class="halloween">
+    {% for post in site.halloween %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
   <h1>My other sites</h1>
   <ul class="posts">
     <li><span>02 Sep 2016</span> &raquo; <a href="http://autoizipro.com/">Free Coloring Pages For Kids</a></li>
